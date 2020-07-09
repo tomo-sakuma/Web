@@ -1,0 +1,4 @@
+[submodule "newblog/public"]
+	path = newblog/public
+	url = https://github.com/tomo-sakuma/tomo-sakuma.github.io.git
+	branch = master
